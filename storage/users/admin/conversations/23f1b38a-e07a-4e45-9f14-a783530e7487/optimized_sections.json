@@ -1,0 +1,68 @@
+[
+  {
+    "heading": "1.0 Purpose & Objective",
+    "content": "The purpose of this Standard Operating Procedure (Standard Operating Procedure: SOP-Centrifuge-MethodA) is to define the standardized operational workflows, parameter verifications, and quality compliance criteria in accordance with Kenvue Manufacturing Quality Standards.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "2.0 Scope, Applicability & Definitions",
+    "content": "This procedure applies to all operational workstations, laboratory environments, and manufacturing personnel executing operations under Standard Operating Procedure: SOP-Centrifuge-MethodA. Standard definitions and approved terminologies are enforced across all operational lines.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "3.0 Roles & Responsibilities",
+    "content": "- Certified Operator: Execute procedural steps and verify operational parameters.\n- Shift Supervisor: Oversee adherence to safety controls and approve deviations.\n- Quality Assurance: Perform routine batch checks and review calibration records.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "4.0 Mandatory Safety & PPE Requirements",
+    "content": "All personnel must wear ANSI-certified safety glasses, nitrile gloves, and chemical-resistant protective gear. Do not bypass interlocks. Report any unexpected chemical exposure or mechanical anomalies immediately.",
+    "type": "safety",
+    "artifact_ids": []
+  },
+  {
+    "heading": "5.0 Equipment, Materials & Workstation Setup",
+    "content": "Ensure all designated equipment, validated cleaning reagents, and lint-free wipes are staged in accordance with workstation staging guidelines prior to commencing operations.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "6.0 Step-by-Step Operating Procedure",
+    "content": "Standard Operating Procedure: High-Speed Centrifugation\n(Method A)\n1.0 Purpose: Defines operating procedure for laboratory high-speed preparative centrifuge units.\n2.0 Scope: Applies to all centrifugation runs in the active bio-pharmaceutical manufacturing facility.\n3.0 Responsibilities: Operators must be certified. Supervisors must verify equipment calibration log.\n4.0 Equipment & Materials: Model Beckman J2-21 Centrifuge, Fixed-angle JA-10 rotor, Balanced sample\nbottles.\n5.0 Pre-Operational Checks: Visually inspect rotor for cracks or corrosion. Verify rubber O-ring seal integrity.\n6.0 Procedure:\n6.1 Balance opposing centrifuge bottles with analytical precision within ± 0.05 grams.\n6.2 Secure rotor onto drive spindle with locking knob. Ensure seated flush without wobble.\n6.3 Set centrifugation speed to 4500 RPM. Set chamber cooling temperature to 4°C.\n6.4 Set run duration to 25 minutes. Engage vacuum latch mechanism.\n6.5 Press Start. Observe acceleration curve until target speed is achieved.\n6.6 Upon cycle completion and deceleration to 0 RPM, vent vacuum chamber and carefully retrieve bottles.\n7.0 Documentation: Record run date, speed (4500 RPM), operator initials, and lot ID in equipment log book.\n\nOperating Guide: High-Speed Centrifugation Protocol\n(Method B)\n1.0 Purpose and Objective: Standard guidelines for executing high-speed centrifuge separation processes.\n2.0 Scope: Applicable to all production and QC laboratory centrifuge equipment.\n3.0 Operating Personnel: Only trained production associates may operate centrifuge machinery.\n4.0 Apparatus: High-speed preparative centrifuge, JA-10 rotor assembly, balance scale.\n5.0 Inspection Steps: Inspect the rotor well for debris. Inspect rotor O-ring and lubricate lightly if dry.\n6.0 Operational Procedure:\n6.1 Accurately balance sample containers against counterpart bottles on twin-pan balance (± 0.05 g).\n6.2 Mount rotor onto drive hub and tighten retaining nut firmly clockwise.\n6.3 Program rotational velocity to 5000 RPM. Set refrigeration system to 2°C.\n6.4 Program timer for 30 minutes. Secure vacuum barrier door.\n6.5 Initiate rotation. Monitor instrument sound and vibration levels during ramp-up.\n6.6 Following complete deceleration, disengage safety lock and extract sample containers.\n7.0 Batch Record Entry: Document operator signature, actual rotational speed (5000 RPM), and temperature\nin batch log.\n\nStandard Operating Procedure: Secondary Blister Packaging\n& Cartoning\n1.0 Purpose: Guidelines for packa",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "7.0 Quality Control, Inspection & Acceptance Standards",
+    "content": "Verify that all operating parameters and surface cleanliness checks remain strictly within quantified acceptance criteria (100% compliance required before release).",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "8.0 Documentation, Records Retention & References",
+    "content": "All execution records, deviations, and supervisory sign-offs must be logged in the batch documentation system and retained per corporate document retention schedules.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "9.0 Revision History & Document Control",
+    "content": "Document Title: Standard Operating Procedure: SOP-Centrifuge-MethodA\nDocument ID: SOP-KNV-2026-OPT\nVersion: 2.0 (Optimized)\nStatus: Approved for Operational Implementation.\nChange Summary: Restructured to 10-tier Kenvue standard architecture, active imperative commands, and validated quality tolerances.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "10.0 Appendix: Operational Checklists & Logsheets",
+    "content": "The following operational checklist and completion logsheet forms must be executed and retained in the official batch record upon procedure completion.",
+    "type": "normal",
+    "artifact_ids": []
+  },
+  {
+    "heading": "10.1 Custom Operational Directives",
+    "content": "Mandatory User Requirements:\nAdd double sign-off on tare balance weight.",
+    "type": "normal",
+    "artifact_ids": []
+  }
+]

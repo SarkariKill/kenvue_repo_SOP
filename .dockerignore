@@ -1,0 +1,17 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+node_modules
+frontend/node_modules
+storage/data/*.db*
+storage/images/*
+storage/tables/*
+storage/users/*
+storage/indexes/*
+storage/artifacts/*
+.git
+.gitignore
+.env
